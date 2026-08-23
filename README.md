@@ -4,7 +4,7 @@
 
 **Asignatura:** Programación Orientada a Objetos  
 **Estudiante:** JONNY JAVIER GARCES ALMEIDA 
-**Fecha:** Agosto 2026
+**Fecha:** 23 Agosto 2026
 
 ---
 
